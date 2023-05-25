@@ -1,0 +1,10 @@
+					GIT COMMANDS
+					------------
+
+git add = this command is use to add file thats are ready to be staged. 
+	
+	HOW TO USE         
+
+("git add ." to add more than one file at a time) 
+
+("git add file_name" this is the way of specifying sigle file )
