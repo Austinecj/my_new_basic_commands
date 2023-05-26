@@ -1,0 +1,36 @@
+	BASIC COMMAND IN SHELL
+ 1. cd: Used to change directory
+	HOW TO USE
+  cd ...enter the directory you want to enter
+
+ 2. mkdir: Used to make directory.
+	HOW TO USE
+  mkdir ..enter the name of directory you want to create
+
+ 3. rmdir: Used to remove an empty directory.
+	HOW TO USE
+  rmdir ..enter the name of the directory you want to remove.
+ 
+  4. rm -r: Used to remove a directory with contents. -r stands for force remove.
+  
+  5. mv: Used to move a file or directory from the present location to next destination.
+
+  6. touch: Used to create a file.
+
+  7. cat: It is used to view a file's content without necessarily entering the into the file.
+
+  8. echo: It is used to auto create a directory. It can also print to standard.
+   NOTE: echo "text..." > "file name" when this command is written, it will auto create the file with the text inside it.
+  
+  9. ls: Used to list directories.
+  
+  10. ls -l: Used to long list directories.
+ 
+  11. ls -a: It will list all items including hidden files.
+  
+  12. ls > files : It will put everything/ all the  the current directories in the files.
+ 
+  13. pwd: Used to print the present working directory.
+
+  14. ls D* : It will list all the directories that started with the capital letter "D" with the all the content in them.
+  

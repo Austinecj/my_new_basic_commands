@@ -1,10 +1,27 @@
 					GIT COMMANDS
 					------------
 
-git add = this command is use to add file thats are ready to be staged. 
+1. git add = this command is use to add file thats are ready to be staged. 
 	
 	HOW TO USE         
 
 ("git add ." to add more than one file at a time) 
 
 ("git add file_name" this is the way of specifying sigle file )
+
+2. git clone: This is used to clone a repository.
+	HOW TO USE
+git clone https://enter token/ enter ssh
+
+3. git commit: This is used add a comment
+	HOW TO USE
+git commit -m "enter your comments"
+
+4. git config: It is used to configure a repository
+	HOW TO USE
+ git config --global user.name "enter your github username"
+ git config --global user.email "enter your email used for the github account"
+
+5. git push: used to push files to a repository.
+	HOW TO USE
+git push
