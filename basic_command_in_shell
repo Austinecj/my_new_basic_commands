@@ -26,7 +26,7 @@
   
   10. ls -l: Used to long list directories.
  
-  11. ls -a: It will list all items including hidden files.
+  11. ls -la: It will list all items including hidden files.
   
   12. ls > files : It will put everything/ all the  the current directories in the files.
  
