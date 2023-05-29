@@ -15,7 +15,7 @@ git clone https://enter token/ enter ssh
 
 3. git commit: This is used add a comment
 	HOW TO USE
-git commit -m "enter your comments"
+git commit -m "enter your commit message"
 
 4. git config: It is used to configure a repository
 	HOW TO USE
