@@ -24,7 +24,7 @@
   
   9. ls: Used to list directories.
   
-  10. ls -l: Used to long list directories.
+  10. ls -l: Used to list in long format.
  
   11. ls -la: It will list all items including hidden files.
   
